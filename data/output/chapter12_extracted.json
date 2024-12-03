@@ -8,30 +8,50 @@
             "Specify the contexts in which various leadership styles are effective.",
             "Explain the concepts of transformational, transactional, charismatic, servant, and authentic leadership.",
             "Understand connections between leading at work and ethics, technology, and cross-cultural management."
-        ]
+        ],
+        "copyright": "© 2021 Boston Academic Publishing, Inc., d.b.a FlartWorld. All rights reserved."
     },
     {
         "chapter": {
             "title": "Organizational Behavior",
-            "main_points": [
-                "Leadership is defined as the act of influencing others toward a goal, applicable at all organizational levels.",
-                "Formal leaders hold a position of authority, while informal leaders influence others without formal authority.",
-                "Effective leadership is characterized by the ability to inspire and influence others without relying on force or punishment.",
-                "The chapter discusses the historical context of leadership studies and the importance of leaders in organizational success.",
-                "The case of Stitch Fix illustrates an inclusive leadership approach, emphasizing the role of individual contributions in achieving organizational goals."
+            "sections": [
+                {
+                    "title": "Leadership",
+                    "definition": "Leadership may be defined as the act of influencing others to work toward a goal.",
+                    "types": {
+                        "formal_leaders": "Those who hold a position of authority and may utilize the power that comes from their position.",
+                        "informal_leaders": "Those without a formal position of authority who demonstrate leadership by influencing others through personal forms of power."
+                    },
+                    "key_points": [
+                        "Leaders do not rely on force to influence people; instead, they gain voluntary support.",
+                        "Effective leadership is distinguished by the perception of individuals as leaders.",
+                        "The chapter reviews the history of leadership studies and summarizes major findings.",
+                        "CEOs are often held responsible for their company's success or failure.",
+                        "Research indicates the importance of leaders for organizational success."
+                    ]
+                },
+                {
+                    "title": "An Inclusive Leadership Approach: The Case of Stitch Fix",
+                    "description": "Stitch Fix is an online personal styling service founded in 2011 by entrepreneur Katrina Lake.",
+                    "vision": "To disrupt the fashion retail industry by curating personalized wardrobe selections for clients.",
+                    "growth": "The company grew significantly, becoming worth over a billion dollars and undergoing a high-profile IPO.",
+                    "current_focus": "Transforming how people love by helping customers with discovery and decision making."
+                }
             ]
         }
     },
     {
         "chapter": 12,
         "title": "Leading at Work",
-        "main_points": [
-            "Stitch Fix employs a diverse range of skills, fostering a culture that values alignment and creative tension.",
-            "The company has implemented a 360-review process for employees to gather feedback from peers and leaders.",
-            "Stitch Fix invests in professional development through an immersive onboarding process for new employees.",
-            "Leadership training is continuous and includes all levels of employees, encouraging engagement and accountability.",
-            "The company focuses on developing leadership attributes and supports personal growth to align with its vision."
-        ],
+        "content": {
+            "main_points": [
+                "Stitch Fix employs a diverse range of skills, from creative designers to data scientists, and emphasizes an approachable leadership style.",
+                "The company has implemented a 360-review process for employees to gather feedback from peers and leaders, aligning with the company's vision.",
+                "Stitch Fix invests in professional development through an immersive onboarding process for new employees, exposing them to company values and leadership attributes.",
+                "Leadership training is continuous throughout an employee's career, encouraging engagement from all levels within the organization.",
+                "The company focuses on developing leadership attributes such as learning, developing, trusting, inspiring, and accountability."
+            ]
+        },
         "case_discussion_questions": [
             "In your opinion, how does the Stitch Fix culture of open dialogue, creative tension, and approachable leadership impact organizational innovation?",
             "Why do you think Stitch Fix invests so heavily in leadership development, even for entry-level employees? What impact do you think this might have on employee engagement, morale, and retention?",
@@ -39,41 +59,43 @@
         ]
     },
     {
-        "chapter": {
-            "title": "Who Is Considered a Leader? Trait Approaches to Leadership",
-            "page": 394,
-            "learningObjectives": [
-                "Learn the position of trait approaches in the history of leadership studies.",
-                "Explain the traits that are associated with leadership.",
-                "Discuss the limitations of trait approaches to leadership."
-            ],
-            "mainPoints": [
-                "The study of leadership initially focused on identifying traits that distinguish leaders from nonleaders.",
-                "Different studies used various measures to assess personality traits associated with leadership.",
-                "By 1940, researchers concluded that the search for definitive leadership traits was largely futile.",
-                "Recent advances, particularly the Big Five personality framework, have improved the identification of traits that predict leadership.",
-                "Charismatic leadership is highlighted as a contemporary approach that exemplifies trait-based leadership."
-            ]
-        }
+        "chapter": "12.2 Who Is Considered a Leader? Trait Approaches to Leadership",
+        "learningObjectives": [
+            "Learn the position of trait approaches in the history of leadership studies.",
+            "Explain the traits that are associated with leadership.",
+            "Discuss the limitations of trait approaches to leadership."
+        ],
+        "mainPoints": [
+            "The earliest approach to studying leadership focused on identifying traits that distinguish leaders from nonleaders.",
+            "Researchers faced challenges in measuring personality traits, leading to the conclusion that the search for leadership-defining traits was futile.",
+            "Recent advances in personality literature, such as the Big Five personality framework, have improved the identification of traits that predict leadership.",
+            "Charismatic leadership is highlighted as a contemporary approach to leadership that exemplifies trait approaches.",
+            "The chapter will discuss traits that show relatively strong relations with leadership."
+        ]
     },
     {
         "chapter": "12",
         "title": "Leading at Work",
-        "main_points": [
+        "sections": [
             {
-                "point": "General mental ability, often referred to as 'IQ', is linked to a person's emergence as a leader, with higher mental abilities correlating to leadership roles."
+                "heading": "Intelligence",
+                "main_points": [
+                    "General mental ability, often referred to as 'g' or IQ, is linked to a person's emergence as a leader.",
+                    "High mental abilities can correlate with leadership, but the relationship is complex and may not always be beneficial.",
+                    "Emotional intelligence (EQ) is also crucial for effective leadership, with high EQ leaders demonstrating self-awareness and empathy.",
+                    "Daniel Goleman suggests that while IQ is important, it becomes less relevant for leadership roles at higher levels.",
+                    "Effective leaders are distinguished by their ability to manage their own emotions and understand the emotions of others."
+                ]
             },
             {
-                "point": "While intelligence is a positive predictor of leadership, its relationship to leadership effectiveness is complex, with studies indicating that too much intelligence can be detrimental."
-            },
-            {
-                "point": "Emotional intelligence (EQ) is crucial for effective leadership, as it involves self-awareness, empathy, and the ability to manage one's own emotions and understand others'."
-            },
-            {
-                "point": "The 'Big Five' personality traits model categorizes individual personalities and has been linked to leadership emergence and effectiveness."
-            },
-            {
-                "point": "Traits such as Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism can predict a person's motivation to lead and their effectiveness in leadership roles."
+                "heading": "Big Five Personality Traits",
+                "main_points": [
+                    "The 'Big Five' model categorizes personality traits that influence leadership emergence and effectiveness.",
+                    "Traits include Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.",
+                    "These traits predict a person's motivation to lead and their desire to attain leadership roles.",
+                    "Openness involves curiosity and creativity, while Conscientiousness relates to organization and dependability.",
+                    "Extraversion is associated with sociability, Agreeableness with trust and kindness, and Neuroticism with emotional instability."
+                ]
             }
         ]
     },
@@ -81,70 +103,95 @@
         "chapter": {
             "title": "Organizational Behavior",
             "main_points": [
-                "Extraversion is linked to leadership effectiveness, with extraverts being sociable and assertive, which helps them emerge as leaders in various situations.",
-                "Conscientiousness is another personality trait associated with leadership, as conscientious individuals tend to take initiative and demonstrate persistence, leading to better organizational performance.",
-                "The role of agreeableness in leadership suggests that agreeable individuals, who are modest and avoid conflict, are often perceived more positively as leaders.",
-                "Self-esteem, while not one of the Big Five personality traits, plays a significant role in leadership perception, with higher self-esteem correlating to better leadership effectiveness.",
-                "Integrity is crucial for leaders, as those who demonstrate honesty and moral principles are more likely to be trusted and effective in their roles."
+                "Extraversion is linked to leadership, with extraverts being sociable, assertive, and energetic, which helps them emerge as leaders in various situations.",
+                "Conscientiousness is another personality trait associated with effective leadership, as conscientious individuals tend to take initiative and demonstrate persistence.",
+                "Research indicates that agreeable individuals, who are modest and avoid conflict, are less likely to be perceived as leaders, yet they contribute positively to group performance.",
+                "Self-esteem, while not part of the Big Five personality traits, plays a significant role in how individuals view themselves as leaders and can influence their effectiveness.",
+                "Integrity is crucial for leaders, as those who demonstrate honesty and moral principles are more likely to be trusted and successful in their roles."
             ]
         }
     },
     {
         "chapter": 12,
         "title": "Leading at Work",
+        "figure": {
+            "number": "12.1",
+            "title": "Key Traits Associated with Leadership",
+            "traits": [
+                "Integrity",
+                "Intelligence",
+                "Extraversion",
+                "Conscientiousness",
+                "Self-esteem",
+                "Open to Experience"
+            ]
+        },
         "main_points": [
-            "Understanding leader traits helps organizations select suitable candidates for leadership roles.",
+            "Understanding leader traits helps organizations select the right individuals for leadership roles.",
             "Not all traits are equally effective in predicting leadership potential across different situations.",
             "In small organizations, leaders can influence their own behavior, affecting leadership potential.",
-            "In larger, bureaucratic organizations, traits may have less impact on behavior and success.",
+            "In larger organizations, traits may have less impact on behavior and effectiveness as a leader.",
             "Identifying specific traits that distinguish leaders from non-leaders is crucial for understanding leadership effectiveness."
         ],
-        "key_takeaway": "Many studies have sought a limited set of personal attributes that correlate with successful leadership. While certain traits like emotional intelligence and integrity are consistently linked to leadership, the trait approach often overlooks the situational context in which leadership occurs."
+        "key_takeaway": "Many studies have sought to identify a limited set of personal attributes that correlate with successful leadership. However, the context in which leadership occurs is essential for determining which traits are necessary."
     },
     {
-        "chapter": {
-            "title": "12.3 What Do Leaders Do? Behavioral Approaches to Leadership",
-            "page": 398,
-            "learningObjectives": [
-                "Explain the behaviors that are associated with leadership.",
-                "Identify the three alternative decision-making styles leaders use and the conditions under which they are more effective.",
-                "Discuss the limitations of behavioral approaches to leadership."
-            ],
-            "mainPoints": [
-                "Research on leader behaviors emerged when trait researchers shifted focus in the 1940s.",
-                "Effective leaders exhibit two broad categories of behaviors: task-oriented and people-oriented.",
-                "Task-oriented leader behaviors involve structuring roles and providing instructions to enhance performance.",
-                "People-oriented leader behaviors show concern for employee feelings and well-being.",
-                "Initial research suggested that demonstrating these behaviors was key to effective leadership, though later studies questioned this assumption."
-            ]
-        }
+        "chapter": "12.3 What Do Leaders Do? Behavioral Approaches to Leadership",
+        "learning_objectives": [
+            "Explain the behaviors that are associated with leadership.",
+            "Identify the three alternative decision-making styles leaders use and the conditions under which they are more effective.",
+            "Discuss the limitations of behavioral approaches to leadership."
+        ],
+        "main_points": [
+            "Research on leader behaviors emerged when trait researchers shifted focus in the 1940s to understand what effective leaders actually do.",
+            "Studies conducted at Ohio State University and the University of Michigan identified two broad categories of leader behaviors: task-oriented and people-oriented.",
+            "Task-oriented leader behaviors involve structuring roles, providing instructions, and enhancing performance.",
+            "People-oriented leader behaviors focus on showing concern for employee feelings and treating employees with respect.",
+            "Initial research suggested that demonstrating both task-oriented and people-oriented behaviors was key to effective leadership, though later studies questioned this assumption."
+        ]
     },
     {
         "chapter": 12,
         "title": "Leading at Work",
-        "main_points": [
-            "Both task-oriented and people-oriented leader behaviors can benefit organizations, but they affect employee satisfaction and productivity differently.",
-            "Leaders using autocratic decision-making tend to make decisions without involving employees, while democratic decision-making encourages employee participation.",
-            "Laissez-faire decision-making allows employees to make decisions, providing minimal guidance from leaders.",
-            "Research indicates that the effectiveness of a leader's decision-making style depends on the specific circumstances and the overall participativeness of the organizational climate.",
-            "Theories about human nature influence managerial approaches, with some managers believing employees are inherently lazy and others believing they are motivated to work."
+        "page": 399,
+        "sections": [
+            {
+                "heading": "Leader Decision Making",
+                "content": [
+                    "Behavioral researchers have studied how leaders make decisions and the impact of decision-making styles on effectiveness and employee reactions.",
+                    "Three types of decision-making styles were examined: autocratic, democratic, and laissez-faire.",
+                    "Autocratic decision-making involves leaders making decisions without employee input, while democratic decision-making includes employees in the process.",
+                    "Laissez-faire decision-making allows employees to make decisions, with the leader providing minimal guidance.",
+                    "Research indicates that different styles affect employee satisfaction and productivity, with participative styles generally leading to higher satisfaction."
+                ]
+            },
+            {
+                "heading": "Leadership Assumptions about Human Nature",
+                "content": [
+                    "Managers often hold assumptions about employee attitudes that influence their management style.",
+                    "McGregor identified two theories: Theory X, which assumes employees are lazy and require control, and Theory Y, which assumes employees are self-motivated and enjoy work.",
+                    "Theory X managers tend to exert more control and oversight, while Theory Y managers encourage autonomy and engagement."
+                ]
+            }
         ]
     },
     {
         "chapter": {
             "title": "Limitations of Behavioral Approaches",
             "main_points": [
-                "Behavioral approaches have fallen out of favor because they often neglect the environmental context in which behaviors are demonstrated.",
-                "Research has shown that the identified behaviors do not consistently predict leadership effectiveness across different circumstances.",
-                "Theory X assumes employees lack ambition, while Theory Y presents a more positive view, suggesting that employees can be innovative and committed when given autonomy.",
-                "The effectiveness of leadership styles, such as autocratic, democratic, and laissez-faire, varies depending on the situation.",
-                "Researchers emphasize the importance of understanding the conditions under which different leadership behaviors are most effective."
+                "Behavioral approaches have fallen out of favor because they neglect the environment in which behaviors are demonstrated.",
+                "Research indicated that the identified behaviors would not consistently predict leadership under all circumstances.",
+                "The effectiveness of a leadership style can vary based on the situation, making it important to specify the conditions for success.",
+                "Leaders can exhibit task-oriented and people-oriented behaviors, which relate differently to outcomes like employee satisfaction.",
+                "There is no universally best leadership style; the effectiveness of each style depends on the context in which leadership occurs."
             ],
-            "key_takeaway": "Researchers shifted focus from identifying traits of ineffective leaders to studying leader behaviors, recognizing that task-oriented and people-oriented behaviors impact leadership outcomes differently."
+            "key_takeaway": "Researchers shifted focus to leader behaviors after failing to identify traits that distinguish effective from ineffective leaders."
         }
     },
     {
-        "chapter": "12.4 What Is the Role of the Context? Contingency Approaches to Leadership",
+        "chapter": "12",
+        "title": "Leading at Work",
+        "section": "12.4 What Is the Role of the Context? Contingency Approaches to Leadership",
         "learningObjectives": [
             "Learn about the major situational conditions that determine the effectiveness of different leadership styles.",
             "Identify the conditions under which highly task-oriented and highly people-oriented leaders can be successful based on Fiedler's contingency theory.",
@@ -152,21 +199,22 @@
             "Describe a method by which leaders can decide how democratic or autocratic their decision making should be."
         ],
         "mainPoints": [
-            "The best leadership style depends on situational factors, prompting research into when certain styles are most effective.",
-            "Fiedler's contingency theory measures a leader's effectiveness using the Least Preferred Coworker (LPC) scale.",
-            "The LPC score reflects a leader's personality and is not easily changed; it helps determine the right fit for leadership roles.",
-            "Leaders can be categorized as task-oriented or people-oriented based on their LPC scores and the situations they face.",
-            "Effective leadership requires understanding the context, including relationships and power dynamics within teams."
+            "The best leadership style depends on situational factors.",
+            "Research has shown that understanding the context can enhance leadership effectiveness.",
+            "Fiedler's contingency theory measures a leader's style using the Least Preferred Coworker (LPC) scale.",
+            "The LPC score indicates whether a leader is more task-oriented or people-oriented.",
+            "Effective leadership involves placing the right person in the right situation to improve outcomes."
         ]
     },
     {
         "chapter": {
-            "title": "Situational Leadership",
+            "title": "Organizational Behavior",
+            "page": 402,
             "main_points": [
                 "Fiedler's Contingency Theory suggests that the effectiveness of a leader depends on the interaction between their leadership style and the situational context.",
-                "The theory identifies three key factors: leader-member relations, position power, and task structure, which determine the favorability of a situation.",
-                "When a leader has good relations with employees and high position power, the situation is favorable; conversely, poor relations and low power create an unfavorable situation.",
+                "Situational favorableness is determined by leader-subordinate relations, position power, and task structure, which can be categorized as favorable, medium, or unfavorable.",
                 "Research supports the predictions of Fiedler's theory, particularly regarding when low LPC (Least Preferred Co-worker) leadership should be applied.",
+                "There is less support for the effectiveness of high LPC leadership in certain situations, indicating the need for a nuanced understanding of leadership styles.",
                 "Kenneth Blanchard and Paul Hersey's Situational Leadership Theory emphasizes adapting leadership styles based on followers' development levels, which has gained popularity among managers globally."
             ]
         }
@@ -175,199 +223,183 @@
         "chapter": 12,
         "title": "Leading at Work",
         "main_points": [
-            "The model summarizes the directive and supportive behaviors that leaders must exhibit to be effective, emphasizing the need to match behaviors to the employee's development level.",
-            "Employees at the earliest stages of development require leaders to be highly directive and less supportive, while more competent employees benefit from coaching and supportive behaviors.",
-            "The Situational Leadership Theory (SLT) helps leaders align their style with the follower's readiness level, which includes competence and commitment.",
-            "Robert House's path-goal theory of leadership is based on the expectancy theory of motivation, suggesting that employees are motivated when they believe their effort will lead to high performance and valuable rewards.",
-            "The path-goal theory also predicts which leader behaviors will be effective under different circumstances, taking into account employee characteristics and the work environment."
+            "The model summarizes the directive and supportive behaviors that leaders must exhibit to be effective.",
+            "Leaders should match their behavior to the employee's development level, with different styles recommended based on the employee's competence and commitment.",
+            "The Situational Leadership Theory (SLT) suggests that as employees become more competent, leaders should adjust their approach from directing to delegating.",
+            "Robert House's path-goal theory of leadership emphasizes that employees are motivated when they believe their effort will lead to high performance and rewards.",
+            "The theory identifies various leadership styles that can be effective depending on employee characteristics and the work environment."
         ]
     },
     {
-        "chapter_title": "Four Leadership Styles",
-        "main_points": [
-            {
-                "style": "Directive Leaders",
-                "description": "Provide specific directions to employees, clarifying role expectations and schedules to reduce ambiguity in the job."
+        "chapter": "Four Leadership Styles",
+        "content": {
+            "directive_leaders": {
+                "description": "Directive leaders provide specific directions to their employees. They lead employees by clarifying role expectations, setting schedules, and ensuring that employees know what to do on a given work day.",
+                "effectiveness": "This style is effective when employees are unclear about their jobs, but may be less effective for those with high abilities."
             },
-            {
-                "style": "Supportive Leaders",
-                "description": "Offer emotional support and care for employees on a personal level, which is effective in reducing stress in repetitive jobs."
+            "supportive_leaders": {
+                "description": "Supportive leaders provide emotional support to employees. They treat employees well and care about them on a personal level.",
+                "effectiveness": "This style is effective when employees are under stress or performing repetitive jobs."
             },
-            {
-                "style": "Participative Leaders",
-                "description": "Involve employees in decision-making, making the process more relevant to them, especially for those with a high internal locus of control."
+            "participative_leaders": {
+                "description": "Participative leaders ensure that employees are involved in the making of important decisions.",
+                "effectiveness": "This style is more effective when decisions are personally relevant to employees."
             },
-            {
-                "style": "Achievement-oriented Leaders",
-                "description": "Set goals for employees and encourage them to reach those goals, focusing on work-related tasks and motivation."
+            "achievement_oriented_leaders": {
+                "description": "Achievement-oriented leaders set goals for employees and encourage them to reach those goals.",
+                "effectiveness": "This style is effective when employees have high abilities and high levels of achievement motivation."
             },
-            {
-                "theory": "Path-goal Theory",
-                "description": "Highlights the importance of a leader's ability to adapt their style based on the circumstances and the environment."
+            "path_goal_theory": {
+                "summary": "The path-goal theory of leadership emphasizes the importance of a leader's ability to change styles based on circumstances, highlighting the leader's role in influencing the work environment."
             }
-        ],
-        "table": {
-            "title": "Predictions of the Path-Goal Theory Approach to Leadership",
-            "situations": [
-                {
-                    "situation": "When employees have high role ambiguity",
-                    "appropriate_leadership_style": "Directive"
-                },
-                {
-                    "situation": "When employees have low abilities",
-                    "appropriate_leadership_style": "Supportive"
-                },
-                {
-                    "situation": "When employees have external locus of control",
-                    "appropriate_leadership_style": "Supportive"
-                },
-                {
-                    "situation": "When tasks are boring and repetitive",
-                    "appropriate_leadership_style": "Supportive"
-                },
-                {
-                    "situation": "When tasks are stressful",
-                    "appropriate_leadership_style": "Participative"
-                },
-                {
-                    "situation": "When the decision is relevant to employees",
-                    "appropriate_leadership_style": "Participative"
-                },
-                {
-                    "situation": "When employees have high internal locus of control",
-                    "appropriate_leadership_style": "Participative"
-                },
-                {
-                    "situation": "When employees have high abilities",
-                    "appropriate_leadership_style": "Achievement-oriented"
-                },
-                {
-                    "situation": "When employees have high achievement motivation",
-                    "appropriate_leadership_style": "Achievement-oriented"
-                }
-            ]
         }
     },
     {
-        "chapter": "12",
+        "chapter": 12,
         "title": "Vroom and Yetton’s Normative Decision Model",
         "main_points": [
-            "The model assists leaders in determining the level of employee involvement in decision-making by following a decision tree based on several key questions.",
-            "Decision significance is crucial; high significance means the decision can significantly impact employee stress and should be approached carefully.",
-            "Commitment from employees is important for implementing decisions, and leaders must assess the likelihood of acceptance based on their experience with the group.",
-            "Expertise is evaluated at multiple levels: leader expertise, group expertise, and team competence, all of which influence the decision-making process.",
-            "The normative approach suggests consulting employees as a group to gather information before making a decision, rather than delegating the decision to the team."
+            "The model assists leaders in determining the level of employee involvement in decision-making.",
+            "Decision significance is crucial; high significance requires following a specific decision path.",
+            "Commitment from employees is important for implementing decisions, influencing the decision path.",
+            "Leader and group expertise are evaluated to ensure informed decision-making.",
+            "Team competence is assessed to determine if the team can effectively solve the problem."
         ]
     },
     {
-        "figure": {
-            "title": "Leadership Decision Tree",
-            "description": "Vroom and Yetton's leadership decision tree shows leaders which styles will be most effective in different situations.",
-            "source": "Used by permission from Victor H. Vroom.",
-            "data": [
+        "LeadershipDecisionTree": {
+            "DecisionSymptom": [
                 {
-                    "decision_situation": "H",
-                    "importance_of_commitment": "H",
-                    "leader_expertise": "H",
-                    "likelihood_of_commitment": "H",
-                    "goal_alignment": "H",
-                    "group_expertise": "H",
-                    "team_competence": "H",
-                    "action": "Decide"
+                    "ImportanceOfCommitment": "H",
+                    "LeaderExpertise": "-",
+                    "LikelihoodOfCommitment": "-",
+                    "GoalAlignment": "Decide",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
                 },
                 {
-                    "decision_situation": "H",
-                    "importance_of_commitment": "L",
-                    "leader_expertise": "H",
-                    "likelihood_of_commitment": "L",
-                    "goal_alignment": "L",
-                    "group_expertise": "L",
-                    "team_competence": "L",
-                    "action": "Facilitate"
+                    "ImportanceOfCommitment": "H",
+                    "LeaderExpertise": "H",
+                    "LikelihoodOfCommitment": "H",
+                    "GoalAlignment": "Facilitate",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
                 },
                 {
-                    "decision_situation": "H",
-                    "importance_of_commitment": "L",
-                    "leader_expertise": "L",
-                    "likelihood_of_commitment": "L",
-                    "goal_alignment": "L",
-                    "group_expertise": "L",
-                    "team_competence": "L",
-                    "action": "Consult (Group)"
+                    "ImportanceOfCommitment": "H",
+                    "LeaderExpertise": "L",
+                    "LikelihoodOfCommitment": "L",
+                    "GoalAlignment": "Consult(Group)",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
                 },
                 {
-                    "decision_situation": "H",
-                    "importance_of_commitment": "H",
-                    "leader_expertise": "H",
-                    "likelihood_of_commitment": "L",
-                    "goal_alignment": "L",
-                    "group_expertise": "L",
-                    "team_competence": "L",
-                    "action": "Delegate"
+                    "ImportanceOfCommitment": "H",
+                    "LeaderExpertise": "L",
+                    "LikelihoodOfCommitment": "-",
+                    "GoalAlignment": "Delegate",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
                 },
                 {
-                    "decision_situation": "H",
-                    "importance_of_commitment": "H",
-                    "leader_expertise": "H",
-                    "likelihood_of_commitment": "H",
-                    "goal_alignment": "L",
-                    "group_expertise": "L",
-                    "team_competence": "L",
-                    "action": "Consult (Individually)"
+                    "ImportanceOfCommitment": "H",
+                    "LeaderExpertise": "H",
+                    "LikelihoodOfCommitment": "H",
+                    "GoalAlignment": "L",
+                    "GroupExpertise": "Consult(Individually)",
+                    "TeamCompliance": null
                 },
                 {
-                    "decision_situation": "L",
-                    "importance_of_commitment": "H",
-                    "leader_expertise": "H",
-                    "likelihood_of_commitment": "L",
-                    "goal_alignment": "L",
-                    "group_expertise": "L",
-                    "team_competence": "L",
-                    "action": "Facilitate"
+                    "ImportanceOfCommitment": "H",
+                    "LeaderExpertise": "L",
+                    "LikelihoodOfCommitment": "-",
+                    "GoalAlignment": "Facilitate",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
                 },
                 {
-                    "decision_situation": "L",
-                    "importance_of_commitment": "H",
-                    "leader_expertise": "H",
-                    "likelihood_of_commitment": "H",
-                    "goal_alignment": "H",
-                    "group_expertise": "H",
-                    "team_competence": "H",
-                    "action": "Decide"
+                    "ImportanceOfCommitment": "L",
+                    "LeaderExpertise": "H",
+                    "LikelihoodOfCommitment": "L",
+                    "GoalAlignment": "Consult(Group)",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
                 },
                 {
-                    "decision_situation": "L",
-                    "importance_of_commitment": "L",
-                    "leader_expertise": "H",
-                    "likelihood_of_commitment": "L",
-                    "goal_alignment": "L",
-                    "group_expertise": "L",
-                    "team_competence": "L",
-                    "action": "Consult (Individually)"
+                    "ImportanceOfCommitment": "L",
+                    "LeaderExpertise": "L",
+                    "LikelihoodOfCommitment": "-",
+                    "GoalAlignment": "Decide",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
                 },
                 {
-                    "decision_situation": "L",
-                    "importance_of_commitment": "L",
-                    "leader_expertise": "L",
-                    "likelihood_of_commitment": "L",
-                    "goal_alignment": "L",
-                    "group_expertise": "L",
-                    "team_competence": "L",
-                    "action": "Decide"
+                    "ImportanceOfCommitment": "H",
+                    "LeaderExpertise": "-",
+                    "LikelihoodOfCommitment": "-",
+                    "GoalAlignment": "Decide",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
+                },
+                {
+                    "ImportanceOfCommitment": "L",
+                    "LeaderExpertise": "H",
+                    "LikelihoodOfCommitment": "H",
+                    "GoalAlignment": "Facilitate",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
+                },
+                {
+                    "ImportanceOfCommitment": "L",
+                    "LeaderExpertise": "-",
+                    "LikelihoodOfCommitment": "L",
+                    "GoalAlignment": "Consult(Individually)",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
+                },
+                {
+                    "ImportanceOfCommitment": "L",
+                    "LeaderExpertise": "H",
+                    "LikelihoodOfCommitment": "-",
+                    "GoalAlignment": "Decide",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
+                },
+                {
+                    "ImportanceOfCommitment": "L",
+                    "LeaderExpertise": "-",
+                    "LikelihoodOfCommitment": "H",
+                    "GoalAlignment": "Delegate",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
+                },
+                {
+                    "ImportanceOfCommitment": "L",
+                    "LeaderExpertise": "-",
+                    "LikelihoodOfCommitment": "-",
+                    "GoalAlignment": "Decide",
+                    "GroupExpertise": null,
+                    "TeamCompliance": null
                 }
             ]
         }
     },
     {
-        "chapter": "Decision-Making Styles",
+        "chapter": 12,
+        "title": "Decision-Making Styles",
         "main_points": [
             "The leader can make decisions using various styles, including deciding alone, consulting individually, consulting as a group, facilitating group discussions, or delegating the decision to the team.",
             "Vroom and Yetton's normative model suggests that different decision-making styles can be more or less effective depending on the situation and the leader's approach.",
-            "Research supports the idea that leaders who use the recommended decision-making style from the model tend to make more effective decisions.",
-            "Fiedler's contingency theory indicates that task-oriented leaders perform best in extreme situations, while people-oriented leaders excel in moderate situations.",
-            "House's path-goal theory emphasizes that leaders should ensure employees feel their efforts are rewarded and adjust their leadership style based on employee motivation needs."
+            "Research indicates that leaders using the recommended decision-making style from the model tend to make more effective decisions.",
+            "Fiedler's contingency theory posits that task-oriented leaders are most effective in both highly favorable and unfavorable situations, while people-oriented leaders excel in moderate situations.",
+            "House's path-goal theory emphasizes the leader's role in motivating employees by ensuring they see the value of their efforts and adjusting their leadership style accordingly."
         ],
-        "key_takeaway": "The contingency approaches to leadership highlight the importance of adapting leadership styles to the specific situation and the needs of employees."
+        "key_takeaway": "The contingency approaches to leadership describe the role the situation plays in choosing the most effective leadership style.",
+        "discussion_questions": [
+            "Do you believe that the least preferred coworker technique is a valid method of measuring someone's leadership style? Why or why not?",
+            "Do you believe that leaders can vary their style to demonstrate directive, supportive, participative, and achievement-oriented leadership styles depending on different employees?",
+            "What do you see as the limitations of the Vroom-Yetton leadership decision-making approach?",
+            "Which of the leadership theories covered in this section do you think are most useful and least useful for practicing managers? Why?"
+        ]
     },
     {
         "chapter": "12.5 What’s New? Contemporary Approaches to Leadership",
@@ -383,9 +415,7 @@
             "transformationalLeadership": {
                 "definition": "Transformational leadership theory is a more recent addition to the literature, focusing on aligning employee goals with the leader's goals.",
                 "characteristics": [
-                    "Leaders use charisma, inspirational motivation, intellectual stimulation, and individual consideration to influence followers.",
-                    "Transformational leaders lead employees by aligning their goals with the leader's goals.",
-                    "Employees focus on the company's well-being rather than just their individual interests."
+                    "Leaders use charisma, inspirational motivation, intellectual stimulation, and individualized consideration to influence followers."
                 ]
             },
             "transactionalLeadership": {
@@ -402,20 +432,24 @@
         "main_points": [
             "Transformational leaders utilize tools such as charisma, inspirational motivation, intellectual stimulation, and individualized consideration to influence employees and foster commitment to company goals.",
             "Charismatic leaders create confidence and admiration among followers, while inspirational motivation involves presenting a compelling vision that inspires others.",
-            "Transactional leaders employ methods like contingent rewards and active management by exception to motivate employees, focusing on performance and problem prevention.",
-            "Research indicates that transformational leadership significantly enhances employee satisfaction, motivation, and performance compared to transactional leadership.",
-            "Trust is a key factor in transformational leadership effectiveness, as leaders who demonstrate integrity and concern for followers' well-being foster greater trust and commitment."
+            "Intellectual stimulation encourages employees to challenge norms and think creatively, and individualized consideration focuses on the personal care and well-being of employees.",
+            "Transactional leaders, in contrast, rely on methods like contingent rewards and active management by exception to motivate employees and manage performance.",
+            "Trust is a key factor in transformational leadership effectiveness, as leaders who demonstrate integrity and concern for others are more likely to be trusted by their followers."
         ]
     },
     {
         "chapter": {
             "title": "Organizational Behavior",
             "main_points": [
-                "Charisma is a key element of transformational leadership, but its necessity is debated.",
-                "While charismatic leaders can be beneficial, they may also have negative impacts on organizations.",
-                "The perception of a CEO's charisma is often linked to the company's success, rather than the leader's actual qualities.",
-                "Charismatic leaders should focus on long-term vision and historical context to inspire their teams.",
-                "Effective charismatic leadership involves confidence-building, body language awareness, and challenging the status quo."
+                "Charisma is a component of transformational leadership, but its necessity is debated.",
+                "Charismatic leaders can have both positive and negative impacts on organizations.",
+                "CEO charisma does not necessarily correlate with a company's performance.",
+                "The perception of charisma can be influenced by a company's success and historical context.",
+                "Effective charismatic leadership involves vision, body language, employee confidence, and challenging the status quo."
+            ],
+            "sources": [
+                "Frese, M., Beimel, S., & Schoenborn, S. (2003). Action training for charismatic leadership: Two evaluations of studies of a commercial training module on inspirational communication of a vision. Personnel Psychology, 56, 671–697.",
+                "Shamir, B., House, R. J., & Arthur, M. B. (1993). The motivational effects of charismatic leadership: A self-concept based theory. Organization Science, 4, 577–594."
             ]
         }
     },
@@ -424,67 +458,70 @@
         "title": "Leader-Member Exchange (LMX) Theory",
         "main_points": [
             "Leader-member exchange (LMX) theory posits that the nature of relationships between leaders and their followers is crucial for understanding leadership influence.",
-            "High-quality LMX relationships are characterized by trust, support, and respect, where both leader and member go above and beyond their job descriptions.",
-            "In contrast, low-quality LMX relationships involve lower levels of trust and respect, with members performing only their formal job duties.",
-            "Employees in high-quality LMX relationships tend to have higher job satisfaction, motivation, and clarity regarding their roles.",
-            "Not all employees experience high-quality relationships with their leaders, which can affect their job performance and overall satisfaction."
+            "High-quality LMX relationships involve trust, support, and respect, where both leader and member go above and beyond their job descriptions to enhance performance.",
+            "In contrast, low-quality LMX relationships are characterized by lower levels of trust and respect, with members fulfilling only their formal job roles.",
+            "Research indicates that employees in high-quality LMX relationships experience greater job satisfaction, motivation, and clarity regarding job expectations.",
+            "Not all employees have high-quality relationships with their leaders, and the quality of these relationships can depend on various factors."
         ]
     },
     {
-        "chapter": {
-            "title": "Organizational Behavior",
-            "main_points": [
-                "Employees play an active role in developing relationships with supervisors by seeking feedback and engaging in behaviors that enhance performance.",
-                "High performance alone may not lead to high-quality exchanges; interpersonal factors like personality similarity and mutual respect are crucial.",
-                "The development of these relationships can vary across different corporate cultures, influencing how leaders distribute rewards.",
-                "In performance-oriented cultures, the focus is on how leaders reward performance, while in people-oriented cultures, the emphasis is on treating employees with dignity.",
-                "Self-assessment tools, such as rating the leader-member exchange (LMX), help employees evaluate their relationship with supervisors across various dimensions."
-            ]
-        }
+        "main_points": [
+            "Employees play an active role in developing relationships with their supervisors by seeking feedback and engaging in behaviors that improve performance.",
+            "High performance alone may not be sufficient for developing a high-quality exchange; interpersonal factors like personality similarity and mutual respect are crucial.",
+            "The development of these relationships can vary across different corporate cultures, influencing how leaders distribute rewards.",
+            "In performance-oriented cultures, the focus is on how leaders reward performance, while in people-oriented cultures, the emphasis is on treating employees with dignity.",
+            "The chapter includes a self-assessment tool for employees to rate their relationship with their supervisor across various dimensions."
+        ]
     },
     {
         "chapter": 12,
         "title": "Leading at Work",
         "main_points": [
-            "Employees with low-quality relationships with their managers may not access positive work environments available to high LMX members, leading to feelings of unfairness.",
-            "High LMX employees are more likely to receive positive performance appraisals due to their perceived effort and success, while low LMX employees may not receive the same recognition.",
-            "The quality of the leader-member exchange (LMX) can significantly influence employee performance and the work environment.",
-            "Leaders' ability to influence their employees is affected by their relationships, which develop through work-related and personal interactions.",
+            "Employees in low-quality leader-member exchanges (LMX) may not access positive work environments available to high LMX members.",
+            "Low LMX employees often feel their situations are unfair, even if their performance is objectively good.",
+            "Managers may misinterpret performance outcomes based on the quality of their relationship with the employee, affecting rewards and recognition.",
+            "The quality of relationships between leaders and employees can influence the work environment, with powerful leaders having more impact.",
             "Managers should consciously cultivate relationships with all employees to prevent favoritism and ensure a fair work environment."
         ]
     },
     {
-        "chapter_title": "OB Toolbox: Ideas for Improving Your Relationship with Your Manager",
-        "main_points": [
-            "Having a good relationship with your manager can significantly enhance job satisfaction and success.",
-            "Creating interaction opportunities with your manager, such as seeking feedback, is essential for improving performance.",
-            "People tend to be more attracted to those who share similarities, so finding common ground with your manager can be beneficial.",
-            "Utilizing impression management tactics while being tactful can help in building a positive relationship.",
-            "Being a reliable employee and demonstrating trustworthiness is crucial for maintaining a good relationship with your manager."
-        ],
-        "section_title": "Servant Leadership",
-        "summary": "Servant leadership focuses on serving the needs of others, emphasizing the leader's role in developing employees and fostering a moral community."
+        "chapter": {
+            "title": "OB Toolbox: Ideas for Improving Your Relationship with Your Manager",
+            "main_points": [
+                "Having a good relationship with your manager can significantly enhance job satisfaction and communication.",
+                "Creating interaction opportunities with your manager, such as seeking feedback, is essential for improving performance.",
+                "People tend to be more attracted to those who share similarities, so finding common ground with your manager can be beneficial.",
+                "Utilizing impression management tactics while being tactful can help in building a positive relationship.",
+                "Being a reliable employee and demonstrating trustworthiness is crucial for maintaining a good relationship with your manager."
+            ]
+        },
+        "servant_leadership": {
+            "definition": "Servant leadership is a leadership approach that prioritizes serving the needs of others.",
+            "context": "The early twenty-first century has seen corporate scandals that highlight the importance of ethical leadership.",
+            "focus": "The primary focus of servant leadership is to develop employees and help them achieve their goals.",
+            "commitment": "Servant leaders are committed to the well-being of employees and the broader community."
+        }
     },
     {
         "chapter": 12,
         "title": "Leading at Work",
         "main_points": [
             "Servant leadership emphasizes community benefits and ethical practices, as exemplified by Merck CEO Kenneth Frazier's efforts in developing an Ebola vaccine.",
-            "This leadership style overlaps with transformational leadership but is distinct in its focus on ethics, community development, and self-sacrifice.",
-            "Research indicates that servant leadership positively impacts employee commitment and performance, particularly in community engagement.",
+            "Research indicates that servant leadership positively influences employee commitment and performance, particularly through community involvement.",
+            "Leaders adopting a servant leadership approach can enhance service culture within their teams, leading to improved customer service.",
             "Transitioning to servant leadership can be challenging for managers who are typically success-driven and may lack humility.",
-            "Practical strategies for adopting servant leadership include understanding employee needs, being humble, maintaining open communication, and engaging with the community."
+            "Practical strategies for implementing servant leadership include understanding employee needs, fostering open communication, and engaging in community service."
         ]
     },
     {
         "chapter": {
             "title": "Authentic Leadership",
             "main_points": [
-                "Authentic leadership emphasizes being true to oneself and adapting to different situations while maintaining personal integrity.",
-                "Leaders with authentic leadership qualities are introspective, understand their values, and are not afraid to express their true selves.",
+                "Leaders must adapt to different structures and work with various types of people, emphasizing the importance of authenticity in leadership.",
+                "The authentic leadership approach encourages leaders to be true to their own values and self-reflect on their experiences and priorities.",
                 "Howard Schultz, founder of Starbucks, exemplifies authentic leadership through his personal experiences and commitment to employee welfare.",
-                "Authentic leaders foster trust and higher quality relationships with employees, leading to increased satisfaction and performance.",
-                "In contrast, abusive leadership involves hostile behaviors that negatively impact employees and organizational outcomes."
+                "Authentic leadership fosters trust and higher quality relationships between leaders and employees, leading to increased satisfaction and performance.",
+                "Abusive leadership is defined as harmful behaviors towards employees, which can lead to significant negative outcomes for organizations."
             ]
         }
     },
@@ -492,29 +529,46 @@
         "chapter": 12,
         "title": "Leading at Work",
         "main_points": [
-            "Abusive leadership is linked to a leader's ability to regulate their emotions, with research indicating that poor sleep quality can lead to increased abusive behaviors.",
+            "Abusive leadership is linked to a leader's ability to regulate their emotions, with research indicating that poor sleep can lead to increased abusive behaviors.",
+            "Destructive leadership behaviors include using the silent treatment, lying, breaking promises, and not giving credit to others.",
             "Abusive leadership is considered contagious, as new managers may adopt the styles of abusive leaders they perceive as competent.",
-            "The perception of leaders as high in tyranny and low in interpersonal sensitivity can exacerbate the modeling of abusive behaviors.",
-            "Abusive leadership negatively impacts not only the targets but also the well-being of the managers themselves.",
+            "The perception of leaders as high in tyranny and low in interpersonal sensitivity can exacerbate the issue of abusive leadership.",
             "Organizations are encouraged to implement selection and training systems that foster a culture preventing abusive behaviors."
         ]
     },
     {
         "chapter": {
-            "title": "Leader Humility and Women in Leadership",
-            "main_points": [
-                "Leader humility is increasingly recognized as a key behavioral trait for effective leadership, emphasizing the importance of self-awareness and openness to feedback.",
-                "Humble leaders foster a collaborative team environment, which enhances team performance and encourages members to emulate positive behaviors.",
-                "However, the effectiveness of leader humility can be influenced by team dynamics, such as power distance among team members.",
-                "The discussion of leadership must also consider gender, as women represent a significant portion of the workforce but are underrepresented in leadership roles.",
-                "Research indicates that women often adopt different leadership styles compared to men, with a tendency towards democratic leadership, which may impact their career advancement."
+            "title": "Organizational Behavior",
+            "sections": [
+                {
+                    "title": "Leader Humility",
+                    "main_points": [
+                        "Leader humility is increasingly recognized as a key behavioral style for effective leadership, contrasting the common perception that leaders must be all-knowing.",
+                        "It involves a leader's ability to acknowledge their own shortcomings and appreciate the strengths of others, fostering an openness to feedback.",
+                        "Humble leaders promote a 'shared leadership' approach, enhancing teamwork and improving team performance.",
+                        "Employees are likely to imitate humble leaders, creating a positive group climate where team members exhibit similar behaviors.",
+                        "However, leader humility may have limitations, particularly in teams with high power distance, where it could negatively impact team dynamics."
+                    ]
+                },
+                {
+                    "title": "Women and Leadership",
+                    "main_points": [
+                        "Women make up a significant portion of the workforce, yet they hold a smaller percentage of leadership positions, raising questions about gender and leadership styles.",
+                        "Research indicates that women are often perceived as more democratic in their leadership approach, while men may display more autocratic styles.",
+                        "Women in traditionally male-dominated roles tend to be rated lower in promotion potential, despite demonstrating high performance.",
+                        "The findings suggest that societal stereotypes influence perceptions of leadership effectiveness and success for women.",
+                        "This ongoing debate highlights the need for further exploration of gender dynamics in leadership roles."
+                    ]
+                }
             ]
         }
     },
     {
         "chapter": 12,
         "title": "Leading at Work",
-        "key_takeaway": "Contemporary approaches to leadership include transformational leadership, leader-member exchange, servant leadership, and authentic leadership. The transformational leadership approach emphasizes the importance of leader charisma, inspirational motivation, intellectual stimulation, and individualized consideration. In contrast, the transactional leadership approach focuses on getting employees to achieve organizational goals. According to the leader-member exchange (LMX) approach, unique, trust-based relationships between leaders and employees are key to effective leadership. Effective leaders must adapt their style based on situational demands and their own values.",
+        "key_takeaway": {
+            "summary": "Contemporary leadership approaches include transformational leadership, leader-member exchange, servant leadership, and authentic leadership. Transformational leadership emphasizes leader charisma, inspirational motivation, intellectual stimulation, and individualized consideration. In contrast, transactional leadership focuses on getting employees to achieve organizational goals. The leader-member exchange (LMX) approach highlights the importance of unique, trust-based relationships between leaders and employees. Effective leaders must adapt their style based on situational demands and their own values."
+        },
         "discussion_questions": [
             "What are the characteristics of transformational leaders? Are transformational leaders more effective than transactional leaders?",
             "What is charisma? What are the advantages and disadvantages of charismatic leadership? Should organizations look for charismatic leaders when selecting managers?",
@@ -522,75 +576,76 @@
             "What does it mean to be a servant leader? Do you know any leaders whose style resembles servant leaders? What are the advantages of adopting such a leadership style?",
             "What does it mean to be an authentic leader? How would such a style be developed?"
         ],
-        "learning_objectives": [
-            "Consider the role of leadership for ethical behavior.",
-            "Consider the relationship between leadership and technology.",
-            "Consider the role of national culture on leadership."
-        ]
+        "focus_section": {
+            "title": "12.6 Focus on Leading People, Ethics, Technology, and National Culture",
+            "learning_objectives": [
+                "Consider the role of leadership for ethical behavior.",
+                "Consider the relationship between leadership and technology.",
+                "Consider the role of national culture on leadership."
+            ]
+        },
+        "copyright": "© 2021 Boston Academic Publishing, Inc., d.b.a FlatWorld. All rights reserved."
     },
     {
         "chapter": {
             "title": "Leadership and Ethics",
             "main_points": [
-                "Leaders significantly influence the ethical climate of an organization by modeling ethical behavior and setting expectations.",
-                "Ethical leadership is linked to job satisfaction and employees' willingness to report issues, highlighting its importance in effective leadership.",
-                "Contemporary leadership approaches emphasize the role of ethics, with servant and authentic leadership focusing on moral reasoning and stakeholder consideration.",
-                "Technology allows for closer monitoring of employee behavior, raising concerns about privacy and the implications of new technologies on employee autonomy.",
-                "Organizations must adapt to technological changes and foster strong relationships between leaders and employees to enhance motivation and retention."
+                "Leaders' ethical behavior significantly influences the organizational climate and employees' perceptions of leadership effectiveness.",
+                "Ethical leaders act as role models, rewarding ethical behavior and punishing unethical actions, thereby encouraging a culture of ethics in the workplace.",
+                "Contemporary leadership approaches emphasize the importance of ethics, with servant and authentic leadership styles focusing on stakeholder interests and moral courage.",
+                "Technology allows for closer monitoring of employee behavior, raising concerns about privacy and autonomy, which leaders must navigate carefully.",
+                "Effective leaders must adapt to technological changes and maintain strong relationships with employees to enhance motivation, effectiveness, and retention."
             ]
         }
     },
     {
-        "chapter": "12",
+        "chapter": 12,
         "title": "Leadership Around the Globe",
         "main_points": [
-            "The universality of leadership is questioned due to varying cultural perceptions of leadership traits across different societies.",
-            "Expatriates may possess leadership skills that are not recognized or valued in their home countries, leading to challenges in international operations.",
-            "Research involving 62 countries identified both universal traits related to leadership effectiveness and cultural differences in leadership styles.",
-            "Certain leadership behaviors, such as charisma and supportiveness, are viewed differently across cultures, affecting how leaders are perceived.",
-            "Cultural context significantly influences expectations of leaders, with variations in how personal relationships and emotional expressions are valued in different societies."
+            "The universality of leadership is questioned due to varying cultural perceptions of leaders across different societies.",
+            "Expatriates may possess leadership skills that are not recognized in their home country, leading to challenges in international operations.",
+            "Research involving 62 countries revealed both universal traits related to leadership effectiveness and cultural differences in leadership styles.",
+            "Certain leadership behaviors, such as charisma and supportiveness, are viewed differently across cultures, affecting perceptions of leaders.",
+            "Cultural context significantly influences expectations of leaders, with variations noted in how leadership traits are valued in different regions."
         ]
     },
     {
-        "chapter": {
-            "main_points": [
-                "Leaders' ethical behaviors are influenced by their characteristics and style, which in turn affect employee behavior.",
-                "Being perceived as ethical is linked to leadership effectiveness and contributes to a more satisfied workforce.",
-                "Contemporary leadership approaches emphasize the importance of ethics, especially in adapting to new challenges like remote work.",
-                "Preferred leadership styles vary globally, with visionary and team-oriented approaches being more common.",
-                "Traits such as confidence and the willingness to sacrifice for employees are culturally dependent, affecting how leadership styles are perceived."
-            ],
-            "key_takeaway": "People get their cues for ethical behaviors from leaders. Leadership characteristics and style influence the level of ethical behaviors employees demonstrate.",
-            "discussion_questions": [
-                "What is the connection between leadership and ethical behaviors?",
-                "Do you believe that ethical leaders are more successful in organizations?",
-                "Which leadership traits and behaviors do you believe would be most important when managing employees remotely?",
-                "Which of the leadership theories seem to be most applicable to other cultures? Which ones are culturally dependent?"
-            ]
-        }
+        "page": 422,
+        "title": "Organizational Behavior",
+        "key_takeaway": "People get their cues for ethical behaviors from leaders. Therefore, leadership characteristics and style will influence the level of ethical behaviors employees demonstrate. Being ethical is related to being perceived as a leader, and ethical leaders create a more satisfied workforce. Contemporary approaches such as servant leadership and authentic leadership explicitly recognize the importance of ethics for leadership effectiveness. Leadership styles such as visionary, team-oriented, and participative seem to be preferred globally, but traits like confidence and self-sacrifice are culturally dependent.",
+        "discussion_questions": [
+            "What is the connection between leadership and ethical behaviors?",
+            "Do you believe that ethical leaders are more successful in organizations?",
+            "Which leadership traits and behaviors do you believe would be most important when managing employees remotely?",
+            "Which of the leadership theories seem to be most applicable to other cultures? Which ones are culturally dependent?"
+        ]
     },
     {
         "chapter": "12.7",
         "title": "A Different Approach to Leadership at Apple: The Case of Tim Cook",
         "main_points": [
             "Tim Cook became CEO of Apple in 2011, succeeding Steve Jobs, amid questions about the company's future success.",
-            "Under Cook's leadership, Apple has achieved significant milestones, including record profits and the launch of products like the iPhone 6, Apple Watch, and Apple Pay.",
-            "Cook is known for his more charitable and less spotlight-seeking approach compared to Jobs, emphasizing positivity and engagement with critics.",
-            "He has also focused on social issues, such as renewable energy, privacy rights, and LGBTQ advocacy, reflecting a commitment to corporate social responsibility.",
-            "Cook believes in transparency and humility in leadership, encouraging individuals to pursue their passions and engage meaningfully with their work."
+            "Cook has led Apple to significant achievements, including record profits and the launch of products like the iPhone 6, Apple Watch, and Apple Pay.",
+            "Unlike Jobs, Cook is known for his humility and charitable nature, often advising individuals to maintain a positive outlook.",
+            "Under Cook's leadership, Apple has addressed social issues, such as renewable energy initiatives and LGBTQ rights advocacy.",
+            "Cook emphasizes transparency and accountability in leadership, encouraging others to pursue their passions and engage in meaningful work."
         ]
     },
     {
-        "chapter": {
-            "title": "Organizational Behavior",
-            "section": "12.8 Conclusion",
-            "main_points": [
-                "This chapter reviews influential leadership theories, focusing on trait and behavioral approaches.",
-                "Trait approaches identify characteristics necessary for effective leadership, such as intelligence and integrity.",
-                "Behavioral approaches categorize the types of behaviors leaders exhibit, emphasizing the importance of context.",
-                "The development of contingency approaches is linked to the recognition of varying leadership styles.",
-                "Recent discussions highlight the role of ethics in leadership, advocating for awareness of one's style and responsiveness to employee and stakeholder needs."
-            ]
-        }
+        "chapter": "12.8 Conclusion",
+        "main_points": [
+            "This chapter reviews influential leadership theories, focusing on trait and behavioral approaches.",
+            "Trait approaches identify characteristics necessary for effective leadership, such as intelligence and integrity.",
+            "Behavioral approaches categorize the types of behaviors leaders exhibit, emphasizing the importance of context.",
+            "The development of contingency approaches arose from recognizing the need for flexibility in leadership styles.",
+            "Ethics have become increasingly important in leadership, highlighting the need for leaders to be aware of their style and its impact on employees and stakeholders."
+        ],
+        "case_discussion_questions": [
+            "What did you know about Tim Cook prior to reading this case? Are you surprised to learn some of these things about his leadership style?",
+            "Which leadership approaches discussed in this chapter do the best job in explaining his leadership style?",
+            "Given what you’ve learned about Cook’s leadership style, would you want to work for Apple? Why or why not?",
+            "Do you think there is a relationship between Cook’s leadership approach and Apple’s success? Explain.",
+            "What personal characteristics do you think makes Cook an effective leader?"
+        ]
     }
 ]
